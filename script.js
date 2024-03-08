@@ -10,9 +10,9 @@
 //     });
 
 
-    $('.button-33').on("click", function(){
-        $('.flowers img').fadeToggle("slow");
-    })
-});
+//     $('.button-33').on("click", function(){
+//         $('.flowers img').fadeToggle("slow");
+//     })
+// });
 
 
